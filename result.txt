@@ -1,0 +1,5 @@
+JPEG Files were found from under D:\GDrive\BOB 과제\[유현]JPEG_Signature\File Signature Examples\
+
+D:\GDrive\BOB 과제\[유현]JPEG_Signature\File Signature Examples\File8
+D:\GDrive\BOB 과제\[유현]JPEG_Signature\File Signature Examples\other_dummpy_jpeg\real_jpeg.JPG
+D:\GDrive\BOB 과제\[유현]JPEG_Signature\File Signature Examples\other_dummpy_jpeg\real_jpeg2.JPG
